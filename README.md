@@ -1,5 +1,7 @@
 # CSV Explorer
 
+**[Try the live app here](https://explore-my-csv.streamlit.app)**
+
 A Streamlit app for quickly exploring CSV and Excel files. Upload a dataset and get an instant preview, summary stats and interactive charts, with no code needed.
 
 https://github.com/user-attachments/assets/4d0704da-2e64-4f44-85a6-d54cbb57b5d3
